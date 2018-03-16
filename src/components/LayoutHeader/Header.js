@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Như Lai Phật & Sứ Giả"
+            title="Người Cổ Xưa"
             to="/blog/"
           />
         </nav>
