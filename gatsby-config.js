@@ -8,8 +8,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Sứ giả của Như Lai, Lời người xưa, lời thánh hiền răn dạy',
-    siteUrl: 'http://sugianhulai.com',
+    title: 'Người Cổ Xưa, Lời người xưa, lời thánh hiền răn dạy',
+    siteUrl: 'http://nguoicoxua.net/',
     rssFeedTitle: 'sugianhulai',
     rssFeedDescription: 'Sứ giả Như Lai, Lời người xưa, lời thánh hiền răn dạy, đức phật dạy làm người',
   },
