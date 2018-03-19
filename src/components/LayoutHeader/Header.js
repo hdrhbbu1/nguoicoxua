@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Sứ giả Như Lai
+            Người Cổ Xưa
           </span>
         </Link>
 
